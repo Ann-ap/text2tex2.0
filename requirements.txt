@@ -1,0 +1,7 @@
+transformers[torch]
+datasets
+peft
+sentencepiece
+rouge-score
+tensorboard
+torch
